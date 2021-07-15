@@ -7,11 +7,3 @@
 
 >Domain in the Office tools, with emphasis on Python, Excel, using SQL queries and Power BI dashboards.
 
-HARD SKILLS
-
-EXCEL           ■■■■■
-PYTHON          ■■■■□
-POWER BI        ■■■■□
-SQL             ■■■□□
-PENTAHO (ETL)   ■■□□□
-ENGLISH         ■■■■□
