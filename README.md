@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-> My name is Victor Goncalves and I am studying a Master in Data Science at University of Padova, Italy.
+> My name is Victor Goncalves and I am enrolled in a **Master's Data Science** at University of Padova, Italy.
 
-> Full degree in Electronic Engineering, by UTFPR, Brazil.
+> Full degree in **Electronic Engineering** at UTFPR, Brazil.
 
-> 4 Years of professional experience developed in the areas of Sales and Operations, always providing support through KPI, metrics and dashboard to commercial area.
+> 4 Years as **Data Analyst** developed in the areas of Sales and Operations, always providing support through KPIs, metrics and dashboard through Python, SQL, and Power BI.
 
-> Domain in the Office tools, with emphasis on Python, Excel, using SQL queries and Power BI dashboards.
-
+> 1 Year as **Data Engineer** developing ETL scripts, using Pyspark, SQL and AWS Cloud (EMR, Dynamo DB, S3).
